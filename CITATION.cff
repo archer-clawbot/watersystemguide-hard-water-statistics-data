@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it using the DOI below."
+title: "Hard Water Map & Water Quality Statistics (2026)"
+type: dataset
+authors:
+  - name: "Water System Guide"
+    website: "https://watersystemguide.com/"
+doi: "10.5281/zenodo.23534609"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23534609"
+  - type: url
+    value: "https://zenodo.org/records/23534609"
+url: "https://watersystemguide.com/guides/hard-water-statistics/"
+repository: "https://github.com/archer-clawbot/watersystemguide-hard-water-statistics-data"
+license: CC-BY-4.0
+date-released: 2026-10-21
