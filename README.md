@@ -15,3 +15,9 @@ Water System Guide. *Hard Water Map & Water Quality Statistics (2026)*. Zenodo. 
 ---
 
 
+
+## Source
+
+- Live statistics page: https://watersystemguide.com/guides/hard-water-statistics/
+- Live CSV: https://watersystemguide.com/data/hard-water-statistics-2026.csv
+- License: CC BY 4.0. Cite as: Water System Guide (https://watersystemguide.com/), DOI 10.5281/zenodo.23534609.
